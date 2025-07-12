@@ -16,10 +16,10 @@ ImaGenAI-DALLE-MERN is an innovative web application that leverages OpenAI's API
 
 ### Technologies Used:
 
-- **TypeScript**: Ensures robust and scalable code.
+- **JavaScript**: Ensures robust and scalable code.
 - **React**: Facilitates a dynamic and responsive user interface.
 - **Node.js**: Provides a powerful server-side runtime.
-- **Mongoose**: Simplifies data modeling and interaction with MongoDB.
+- **MongoDB**: Simplifies data modeling and interaction with MongoDB.
 - **Tailwind CSS**: Offers utility-first styling for a clean and efficient design.
 - **Vite**: Enhances the development experience with fast builds and hot module replacement.
 - **OpenAI**: Powers the core image generation functionality.
@@ -73,7 +73,7 @@ npm start
    Create a `.env` file in the `server` directory and add your configuration details.
 
 ```plaintext
-- ai-image-generator
+- SketchMind
   - server
     - node_modules
     - public
