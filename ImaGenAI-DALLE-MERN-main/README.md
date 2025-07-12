@@ -1,8 +1,5 @@
 # Text to AI Image Generation 🚀
 
-### Live Demo : 
-
-The Website is live - [here](https://imagen-dalle-mern.netlify.app/)
 
 
 ## Project Description
@@ -35,14 +32,14 @@ This description highlights the main features and technologies used in your proj
 
 ## Technologies Used 🖥️
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/en)
-- [Mongoose](https://mongoosejs.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev)
-- [OpenAI](https://openai.com/)
-- [Cloudinary](https://cloudinary.com/)
+- [JavaScript]
+- [React]
+- [Node.js]
+- [MongoDB]
+- [Tailwind CSS]
+- [Vite]
+- [OpenAI]
+- [Cloudinary]
 
 ## Getting Started
 
@@ -102,15 +99,4 @@ CLOUDINARY_API_SECRET="Your app secret key"
 
 ---
 
-## Acknowledgments
 
-Feel Free to Explore and Experiment, I encourage you to explore the project, expriment with different approaches, and contribute to improving visualizations, and UI. Your contributions and innovative ideas can be pivotal in advancing this project's effectiveness and generating valuable outcomes
-
-Contact
-For feedback, suggestions, or collaborations, feel free to connect with me :
-
-Contact Me - Gokul Raja
-
-Email - gokulraja840@gmail.com
-
-Feel free to reach out if you encounter any issues or have further questions. Thank you!
